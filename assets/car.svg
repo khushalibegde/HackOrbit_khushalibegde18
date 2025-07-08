@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="512" height="512" fill="white"/>
+    
+    <!-- Car Body -->
+    <path d="M120 280C120 260 140 240 160 240H352C372 240 392 260 392 280V320C392 340 372 360 352 360H160C140 360 120 340 120 320V280Z" fill="#FF0000"/>
+    
+    <!-- Car Roof -->
+    <path d="M160 240C160 220 180 200 200 200H312C332 200 352 220 352 240V280H160V240Z" fill="#FF0000"/>
+    
+    <!-- Windows -->
+    <path d="M180 220C180 210 190 200 200 200H312C322 200 332 210 332 220V260H180V220Z" fill="#87CEEB"/>
+    
+    <!-- Wheels -->
+    <circle cx="180" cy="360" r="40" fill="#000000"/>
+    <circle cx="332" cy="360" r="40" fill="#000000"/>
+    
+    <!-- Headlight -->
+    <circle cx="380" cy="300" r="20" fill="#FFD700"/>
+    
+    <!-- Taillight -->
+    <circle cx="132" cy="300" r="20" fill="#FF0000"/>
+</svg> 
