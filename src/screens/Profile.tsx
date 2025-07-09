@@ -61,7 +61,7 @@ export default function Profile() {
       <View style={styles.profileWrapper}>
       <View style={{ width: 160, height: 160, borderRadius: 80, overflow: "hidden", borderColor: "white", borderWidth: 2}}>
         <Image 
-          source={require("../../assets/images/kartik.jpeg")} 
+          source={require("../../assets/images/pfp1.png")} 
           style={{ 
             width: "120%", 
             height: "120%", 
@@ -87,9 +87,9 @@ export default function Profile() {
         ))}
       </View>
 
-      <Text style={styles.name}>Kartik Ailwar</Text>
-      <Text style={styles.username}>@kartik_sparkle</Text>
-      <Text style={styles.age}>Age: 20</Text>
+      <Text style={styles.name}>Khushali Begde</Text>
+      <Text style={styles.username}>@khushiiii</Text>
+      <Text style={styles.age}>Age: 21</Text>
       <Text style={styles.bio}>🌟 Always Smiling | Loves Music 🎶 | Super Friendly 🤗</Text>
       <Text style={styles.location}>📍 Nagpur</Text>
 
