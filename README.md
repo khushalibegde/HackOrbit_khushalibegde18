@@ -1,5 +1,5 @@
 # 📚 EduSphere - From Learning to Independence: A New Approach  
-**Domain:** EduTech  
+**Domain:** Open Innovation
 
 EduSphere is an **interactive learning platform** designed to make daily life skills **fun, engaging, and easy** to grasp for children, especially those with **Down syndrome**. Traditional learning methods can be **boring and ineffective**, so EduSphere provides a **gamified, adaptive, and interactive** approach to teach **essential life skills** in an enjoyable way.  
 
@@ -55,8 +55,7 @@ EduSphere **transforms learning into an engaging adventure**, making it:
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/your-username/edusphere.git
-   cd edusphere
+   git clone [https://github.com/your-username/edusphere.git](https://github.com/khushalibegde/HackOrbit_khushalibegde18.git)
 2. **Install Dependencies:**  
    ```bash
    npm install
