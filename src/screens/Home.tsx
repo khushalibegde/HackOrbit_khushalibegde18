@@ -49,7 +49,7 @@ const Home = ({ navigateTo }: ContentScreenProps) => {
 
   return (
     <View style={{ flex: 1, backgroundColor: "#F3F8FF" }}>
-      <Header name="Khushali" age={21} />
+      <Header name="Kartik" age={20} />
       <ScrollView contentContainerStyle={{ alignItems: "center", paddingVertical: 20 }}>
         {options.map((item, index) => {
           const backgroundColor = selectedItem === item.speechText ? "#1E40AF" : colors[index % colors.length];
