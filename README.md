@@ -55,7 +55,7 @@ EduSphere **transforms learning into an engaging adventure**, making it:
 
 1. **Clone the Repository:**  
    ```bash
-   git clone (https://github.com/khushalibegde/HackOrbit_khushalibegde18.git)
+   git clone https://github.com/khushalibegde/HackOrbit_khushalibegde18.git
 2. **Install Dependencies:**  
    ```bash
    npm install
