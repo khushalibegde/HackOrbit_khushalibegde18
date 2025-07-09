@@ -90,22 +90,17 @@ Modules are adaptive — difficulty adjusts based on the learner’s pace.
 ---
 
 ## 📥 Installation & Setup
-```
-### 1. Clone the Repository  
 ```bash
+1. Clone the Repository  
 git clone https://github.com/khushalibegde/HackOrbit_khushalibegde18.git
 cd HackOrbit_khushalibegde18
 ```
 ### Install dependencies
 ```bash
-Copy
-Edit
 npm install
 ```
 ### Start development server
 ```bash
-Copy
-Edit
 npx expo start
 ```
 ### Launch the app
