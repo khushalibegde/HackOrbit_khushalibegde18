@@ -90,8 +90,9 @@ Modules are adaptive — difficulty adjusts based on the learner’s pace.
 ---
 
 ## 📥 Installation & Setup
-```bash
-1. Clone the Repository  
+
+### Clone the Repository 
+```bash 
 git clone https://github.com/khushalibegde/HackOrbit_khushalibegde18.git
 cd HackOrbit_khushalibegde18
 ```
