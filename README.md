@@ -22,7 +22,6 @@ Children with **Down syndrome** often face hurdles in:
 * Identifying **MRP and expiry dates** while shopping  
 * Using **phones and computers** confidently  
 * Navigating **social interactions and cultural norms**  
-* Developing **emotional expression and self-awareness**
 
 ---
 
@@ -88,6 +87,8 @@ graph TD;
 ```
 Modules are adaptive — difficulty adjusts based on the learner’s pace.
 
+---
+
 ## 📥 Installation & Setup
 ```
 ### 1. Clone the Repository  
@@ -111,6 +112,8 @@ npx expo start
 Use Expo Go app to scan the QR code
 Or run on your emulator (Android/iOS)
 
+---
+
 ### 🧭 Future Roadmap
 🌍 Add multilingual support
 
@@ -124,14 +127,20 @@ Or run on your emulator (Android/iOS)
 
 #### 👩‍🏫 Special thanks to the educators & children of Jeevodaya School for their feedback, joy, and trust.
 
+---
+
 ### 📚 References
 Disha Abhiyan Workbooks – Jai Vakeel Foundation
 Surveys with parents and educators
 Real-world user testing and feedback loops
 
+---
+
 ### ✨ Final Thought
 "Education is not about who finishes first —
 it’s about making sure everyone crosses the line."
+
+---
 
 EduSphere is here to redefine learning —
 one emoji tap, one glowing signal, one proud smile at a time. 💗
