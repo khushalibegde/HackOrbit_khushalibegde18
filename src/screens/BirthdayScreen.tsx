@@ -8,7 +8,7 @@ export default function BirthdayLearningScreen() {
   const [animationPlay, setAnimationPlay] = useState(false);
   const [yearDigits, setYearDigits] = useState(["_", "_", "_", "_"]);
   const confettiRef = useRef<ConfettiCannon | null>(null);
-  const birthdayText = "April 22, 2004";
+  const birthdayText = "April 13, 2004";
   const bounceAnim = useRef(new Animated.Value(1)).current; 
 
   const revealYear = (index = 0, digits = ["2", "0", "0", "4"]) => {
@@ -33,7 +33,7 @@ export default function BirthdayLearningScreen() {
   };
 
   const speakBirthday = () => {
-    const speechText = "Your birthday is April 22, Two Thousand and Four. 2... 0... 0... 4...";
+    const speechText = "Your birthday is April 13, Two Thousand and Four. 2... 0... 0... 4...";
     Speech.speak(speechText, { rate: 0.8 });
     revealYear();
   };
